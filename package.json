@@ -22,7 +22,7 @@
     "node-telegram-bot-api": "^0.40.0",
     "tar": "^6.0.0",
     "typescript": "^3.5.3",
-    "uuid": "^7.0.0"
+    "uuid": "^8.0.0"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^2.26.0",
