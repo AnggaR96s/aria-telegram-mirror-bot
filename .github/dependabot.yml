@@ -1,0 +1,16 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: daily
+    time: "22:00"
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: googleapis
+    versions:
+    - 67.0.0
+    - 70.0.0
+  - dependency-name: "@types/node-telegram-bot-api"
+    versions:
+    - 0.51.0
