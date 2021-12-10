@@ -19,7 +19,7 @@
     "fs-extra": "^10.0.0",
     "googleapis": "^92.0.0",
     "http-range-parse": "^1.0.0",
-    "node-telegram-bot-api": "^0.55.0",
+    "node-telegram-bot-api": "^0.56.0",
     "tar": "^6.0.0",
     "typescript": "^4.0.2",
     "uuid": "^8.0.0"
