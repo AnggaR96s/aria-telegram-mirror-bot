@@ -13,7 +13,7 @@
     "@types/mime-types": "^2.1.0",
     "@types/node-telegram-bot-api": "^0.57.0",
     "@types/tar": "^6.1.0",
-    "@types/uuid": "^8.0.0",
+    "@types/uuid": "^9.0.0",
     "aria2": "^4.1.1",
     "diskspace": "^2.0.0",
     "fs-extra": "^11.0.0",
