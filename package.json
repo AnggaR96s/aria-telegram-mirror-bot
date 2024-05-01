@@ -17,7 +17,7 @@
     "aria2": "^4.1.1",
     "diskspace": "^2.0.0",
     "fs-extra": "^11.0.0",
-    "googleapis": "^134.0.0",
+    "googleapis": "^135.1.0",
     "http-range-parse": "^1.0.0",
     "node-telegram-bot-api": "^0.65.1",
     "tar": "^7.0.0",
